@@ -13,7 +13,7 @@ void main()
     priQ q; // declare priority queue
     createPriQueue(&q); // create queue
 
-    while(choice)
+    while(choice) //choice 
     {
         char option = NULL, item = NULL;
 
